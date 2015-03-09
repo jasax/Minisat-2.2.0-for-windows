@@ -2,7 +2,7 @@
 
 Minisat 2.2.0 compiled with mingw for Windows. It should work in Windows 2K and more recent versions.
 
-(<b>PRELUDE:</b> this Minisat binary for windows was deployed in Keepandshare a couple years ago, but as of now (March, 2015) that site has ended as a repository. So I am moving it for here and replicating the emails sent to the Minisat list, two yeras ago in March 2013, with the relevant information. I hope it still is useful for some people. I haven't used minisat since then, so the version 2.2.0 can eventually be outdated.) 
+(<b>PRELUDE:</b> this Minisat binary for windows was deployed in Keepandshare a couple years ago, but as of now (March, 2015) that site has ended as a repository. So I am moving it for here and replicating the emails sent to the Minisat list, two years ago in March 2013, with the relevant information. I hope it still is useful for some people. I haven't used minisat since then, so the version 2.2.0 can eventually be outdated.) 
 
 ########################## 
 
